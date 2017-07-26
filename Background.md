@@ -42,7 +42,7 @@ relative to the subject. I've also to use cross-polarisation and more diffuse li
 This system would cost about £4000 to build and so I am trying to apply for a grant to design and build such a 
 system.
 
-My hope would be to design and build something related to this Bratcam setup:
+My hope would be to design and build something related to this Bratcam setup, but very much more cheaply, using scavenged parts:
 
 <img src="images/679_On_Bratcam_1 (1).jpg" alt="image"/>
 
