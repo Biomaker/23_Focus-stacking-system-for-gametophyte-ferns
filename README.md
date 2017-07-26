@@ -13,7 +13,7 @@ This project is a collaboration between many people. The principles of the desig
 
 Here is the setup. The focus block, on which the camera rests, is a block from a Nikon Optiphot or Labophot microscope. It was sawn out of the microscope by Doc.Al, and he also drilled holes in it, which have allowed me to fasten it to the board. The board is a piece of discarded kitchen worktop.
 
-<img src="images/IMG_5249.jpg" alt="image"/>
+<img src="images/IMG_5249.JPG" alt="image"/>
 
 Below is a close-up shot of the camera mounted on the block. You can see the focus knob under the camera. It allows the top section of the block to be moved back and forth. There is a coarse and fine focus knob. On the other side of the focus block there are identical focus knobs. 
 
