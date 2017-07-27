@@ -1,7 +1,13 @@
 
 ## Synopsis
 
-A summary of your project. This is the 150 word description from your proposal. Include your project banner and photos of team members.
+<img src="images/banner.tif" alt="image"/>
+
+<img src="images/Jennifer Deegan.tif" alt="image"/>
+<img src="images/Tim Deegan.JPG" alt="image"/>
+<img src="images/Richard Mortier.JPG" alt="image"/>
+
+
 
 ## Software
 
