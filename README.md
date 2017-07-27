@@ -4,8 +4,8 @@
 <img src="images/banner.tif" alt="image"/>
 
 <img src="images/Jennifer Deegan.tif" alt="image"/>
-<img src="images/Tim Deegan.JPG" alt="image"/>
-<img src="images/Richard Mortier.JPG" alt="image"/>
+<img src="images/Tim Deegan.jpg" alt="image"/>
+<img src="images/Richard Mortier.jpg" alt="image"/>
 
 
 
