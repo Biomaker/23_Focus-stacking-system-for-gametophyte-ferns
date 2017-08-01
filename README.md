@@ -56,11 +56,12 @@ My husband, Tim, devised a system whereby the Raspberry Pi could also send a sig
 
 Below is a photograph of the infra red remote control with its new wiring. 
 
-<img src="images/IMG_5245.JPG" alt="image"/>
+<img src="images/_MG_5899.JPG" alt="image"/>
 
 This is the other side. The wires are attached firmly to the board using the glue from a hot glue gun. 
 
-<img src="images/IMG_5246.JPG" alt="image"/>
+<img src="images/_MG_5900.JPG" alt="image"/>
+
 
 Tim has carried out some experiments on the travel that is produced in the focus block using this stepper motor setup. He figured out that a single step of the stepper motor moves the top part of the focus block 1/128th of a μm (micro metre), which is very very good for our purposes.The movement is very smooth indeed. 
 
