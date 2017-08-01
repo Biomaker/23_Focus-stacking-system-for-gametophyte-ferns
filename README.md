@@ -18,7 +18,7 @@ We provide instructions on how to drive the system using either an <a href="http
 
 ## Hardware
 
-Here is the hardward setup. The focus block, on which the camera rests, is a block from a Nikon Optiphot or Labophot microscope. It was sawn out of the microscope by Doc.Al of the http://www.photomacrography.net/ forum. He also drilled holes in it, which have allowed me to fasten it to the board. The board is a piece of discarded kitchen worktop.
+Here is the hardware setup. The focus block, on which the camera rests, is a block from a Nikon Optiphot or Labophot microscope. It was sawn out of the microscope by Doc.Al of the http://www.photomacrography.net/ forum. He also drilled holes in it, which have allowed me to fasten it to the board. The board is a piece of discarded kitchen worktop.
 
 <img src="images/IMG_5249.JPG" alt="image"/>
 
@@ -69,7 +69,21 @@ Tim has carried out some experiments on the travel that is produced in the focus
 We provide instructions on how to build and drive the system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. 
 
 
+## List of Hardware Bits
 
+Bit of discarded worktop (£0)<br>
+Bit of sawn off Nikon Optiphot or Labophot microscope (£0 this time, but I was very lucky)<br>
+Cogs from Maplin (about £15)<br>
+Screws (£1 MacKays hardware shop in Cambridge)<br>
+Sheet of metal (£1.37 from MacKays hardware shop in Cambridge)<br>
+Raspberry Pi B (£34.50) or Arduino Uno (£17.30)<br>
+Canon Remote Control RC-06 (£16.99) or amazon version (£6.99)<br>
+Jumper wires<br>
+12v power supply transformer plug to drive motor via Raspberry Pi or Arduino. <br>
+Stepper motor control board with voltage adjustment (What was that?)<br>
+RS Pro Hybrid Stepper Motor 0.9°, 44Ncm, 2.8 V, 1.68 A, 4 Wires (£27.17 from http://uk.rs-online.com/web/p/stepper-motors/5350401/)<br>
+Soldering equipment<br>
+Hot glue gun
 
 
 
