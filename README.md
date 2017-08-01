@@ -1,6 +1,8 @@
 
 ## Synopsis
 
+This project is a collaboration between many people. The principles of the design came from the lovely folks at the http://www.photomacrography.net/ forum. The design is particularly based on the Bratcam, designed by Chris Slaybaugh. The focus block was given to me as a gift by one of the forum members (Doc.Al). The electronics and programming were done by my husband, Tim Deegan. I did everything else.
+
 <img src="images/banner.jpg" alt="image"/>
 
 <img src="images/Jennifer-Deegan.jpg" alt="image"/>
@@ -11,21 +13,20 @@
 
 ## Software
 
-Explain functionality of software components (if any) as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Ideally, this should be pseudo code or an abstract graphical representation of your code e.g entity relationship diagram. Consider adding a screenshot of your User Interface.
+We provide instructions on how to drive the system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. Please see one or other of these pages for the software documentation depending on which hardware you are using. 
+
 
 ## Hardware
 
-This project is a collaboration between many people. The principles of the design came from the lovely folks at the http://www.photomacrography.net/ forum. The design is particularly based on the Bratcam, designed by Chris Slaybaugh. The focus block was given to me as a gift by one of the forum members (Doc.Al). The electronics and programming were done by my husband, Tim Deegan. I did everything else.
-
-Here is the setup. The focus block, on which the camera rests, is a block from a Nikon Optiphot or Labophot microscope. It was sawn out of the microscope by Doc.Al, and he also drilled holes in it, which have allowed me to fasten it to the board. The board is a piece of discarded kitchen worktop.
+Here is the hardward setup. The focus block, on which the camera rests, is a block from a Nikon Optiphot or Labophot microscope. It was sawn out of the microscope by Doc.Al of the http://www.photomacrography.net/ forum. He also drilled holes in it, which have allowed me to fasten it to the board. The board is a piece of discarded kitchen worktop.
 
 <img src="images/IMG_5249.JPG" alt="image"/>
 
-Below is a close-up shot of the camera mounted on the block. You can see the focus knob under the camera. It allows the top section of the block to be moved back and forth. There is a coarse and fine focus knob. On the other side of the focus block there are identical focus knobs. 
+Below is a close-up shot of the camera with a Canon MP-E lens mounted on the block. You can see the focus knob under the camera. It allows the top section of the block to be moved back and forth. There is a coarse and fine focus knob. On the other side of the focus block there are identical focus knobs. The cogs that are fitted on the focus knob are modified from a set that were bought in Maplin. We just cut the central section out of the cogs and pushed them onto the focus knobs and that seemed to be enough to hold them in place. 
 
 <img src="images/IMG_5243.JPG" alt="image"/>
 
-Switching now to the other side - below, you can also see the stepper motor, and the gearing that allows it to drive the fine focus control. The driver board (red) and the Raspberry Pi are also shown. These allow us to control the stepper motor. 
+Switching now to the other side - below, you can also see the stepper motor, and the gearing that allows it to drive the fine focus control. The driver board (red) and a Raspberry Pi are also shown. These allow us to control the stepper motor. 
 
 The stepper motor is an RS Pro Hybrid Stepper Motor 0.9°, 44 Ncm, 2.8 V, 1.68 A, 4-wire motor, which was bought from http://uk.rs-online.com/. I intentionally brought quite a beefy motor in the hope that it would be less likely to burn out. It is also very square in the body, which helps to brace it against the board. 
 
@@ -67,7 +68,7 @@ Thank you to everyone who helped to produce this amazing piece of machinery. :-)
 We are going to try taking some photos soon. Watch this space!
 
 
-## Raspberry Pi setup
+
 
 We provide instructions on how to drive the system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. 
 
