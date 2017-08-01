@@ -5,58 +5,59 @@
 
 
 ##Code
-
+<p>
 #!/usr/bin/env python
-
-import RPi.GPIO as GPIO
+</p><p>
+import RPi.GPIO as GPIO<br>
 import time
-
+</p><p>
 GPIO.setmode(GPIO.BCM)
-
-#This assigns the pins of the raspberry pie to variables called "pin".
-pin0 = 18
-pin1 = 23
-pin2 = 24
+</p><p>
+#This assigns the pins of the raspberry pie to variables called "pin".<br>
+pin0 = 18<br>
+pin1 = 23<br>
+pin2 = 24<br>
 pin3 = 17
-
-#Set these pins to send messages out rather than listen for messages coming in. 
-GPIO.setup(pin0, GPIO.OUT)
-GPIO.setup(pin1, GPIO.OUT)
-GPIO.setup(pin2, GPIO.OUT)
+</p><p>
+#Set these pins to send messages out rather than listen for messages coming in. <br>
+GPIO.setup(pin0, GPIO.OUT)<br>
+GPIO.setup(pin1, GPIO.OUT)<br>
+GPIO.setup(pin2, GPIO.OUT)<br>
 GPIO.setup(pin3, GPIO.OUT)
-
-#Zero all of the pins between tests. 
-def zero_pins():
-    time.sleep(0.1)
-    GPIO.output(pin0, 0)
-    GPIO.output(pin1, 0)
-    GPIO.output(pin2, 0)
+</p><p>
+#Zero all of the pins between tests. <br>
+def zero_pins():<br>
+    time.sleep(0.1)<br>
+    GPIO.output(pin0, 0)<br>
+    GPIO.output(pin1, 0)<br>
+    GPIO.output(pin2, 0)<br>
     GPIO.output(pin3, 0)
-	
-#This runs the test.
+	</p><p>
+#This runs the test.<br>
 def test():
-        
-    count = 1
-    while (count < 10000):
+     </p><p>   
+    count = 1<br>
+    while (count < 10000):<br>
             print 'The count is:', count
-		
-            zero_pins()
+</p><p>		
+            zero_pins()<br>
             GPIO.output(pin0, 1) 
-
-            GPIO.output(pin1, 1)
+</p><p>
+            GPIO.output(pin1, 1)<br>
             zero_pins()             
-        
-            GPIO.output(pin1, 1)         
-            GPIO.output(pin2, 1)      
+ </p><p>       
+            GPIO.output(pin1, 1)   <br>      
+            GPIO.output(pin2, 1)   <br>   
             zero_pins()
-               
-            GPIO.output(pin2, 1)       
-            GPIO.output(pin3, 1)      
+</p><p>               
+            GPIO.output(pin2, 1)   <br>    
+            GPIO.output(pin3, 1)    <br>  
             zero_pins()
-
-            GPIO.output(pin3, 1)       
-            GPIO.output(pin0, 1)      
+</p><p>
+            GPIO.output(pin3, 1)  <br>     
+            GPIO.output(pin0, 1)   <br>   
             zero_pins()
-
-count = count + 1
+</p><p>
+count = count + 1<br>
 test()
+</p>
