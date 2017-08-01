@@ -1,7 +1,7 @@
 
 ## Synopsis
 
-This project is a collaboration between many people. The principles of the design came from the lovely folks at the http://www.photomacrography.net/ forum. The design is particularly based on the Bratcam, designed by Chris Slaybaugh. The focus block was given to me as a gift by one of the forum members (Doc.Al). The electronics and programming were done by my husband, Tim Deegan. I did everything else.
+This project is a collaboration between many people. The principles of the design came from the lovely folks at the http://www.photomacrography.net/ forum. The design is particularly based on the Bratcam, designed by Chris Slaybaugh. The focus block was given to me as a gift by one of the forum members (Doc.Al). The electronics and programming and some of the fitting together were done by my husband, Tim Deegan. I did everything else.
 
 <img src="images/banner.jpg" alt="image"/>
 
