@@ -3,7 +3,7 @@
 ## Hardware
 
 
-<img src="images/IMG_5876.jpg" alt="image"/>
+<img src="images/IMG_5876.JPG" alt="image"/>
 <img src="images/IMG_5877.jpg" alt="image"/>
 <img src="images/IMG_5878.jpg" alt="image"/>
 <img src="images/IMG_5879.jpg" alt="image"/>
