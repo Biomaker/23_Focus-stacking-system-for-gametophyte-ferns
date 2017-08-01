@@ -22,7 +22,7 @@ Here is the hardward setup. The focus block, on which the camera rests, is a blo
 
 <img src="images/IMG_5249.JPG" alt="image"/>
 
-Below is a close-up shot of the camera with a Canon MP-E lens mounted on the block. You can see the focus knob under the camera. It allows the top section of the block to be moved back and forth. There is a coarse and fine focus knob. On the other side of the focus block there are identical focus knobs. The cogs that are fitted on the focus knob are modified from a set that were bought in Maplin. We just cut the central section out of the cogs and pushed them onto the focus knobs and that seemed to be enough to hold them in place. 
+Below is a close-up shot of the camera with a Canon MP-E lens mounted on the block. You can see the focus knob under the camera. It allows the top section of the block to be moved back and forth. There is a coarse and fine focus knob. On the other side of the focus block there are identical focus knobs. 
 
 <img src="images/IMG_5243.JPG" alt="image"/>
 
