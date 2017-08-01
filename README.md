@@ -71,6 +71,9 @@ We provide instructions on how to build and drive the system using either an <a 
 
 ## List of Hardware Bits
 
+Both versions
+-------------
+
 Bit of discarded worktop (£0)<br>
 Bit of sawn off Nikon Optiphot or Labophot microscope (£0 this time, but I was very lucky)<br>
 Cogs from Maplin (about £15)<br>
@@ -84,6 +87,21 @@ Stepper motor control board with voltage adjustment (What was that?)<br>
 RS Pro Hybrid Stepper Motor 0.9°, 44Ncm, 2.8 V, 1.68 A, 4 Wires (£27.17 from http://uk.rs-online.com/web/p/stepper-motors/5350401/)<br>
 Soldering equipment<br>
 Hot glue gun
+
+Arduino version also requires
+-----------------------------
+
+USB cable to connect to laptop
+
+Raspberry Pi version also requires:
+-----------------------------------
+
+SD card<br>
+Wireless dongle 
+
+
+
+
 
 
 
