@@ -3,6 +3,22 @@
 ## Hardware
 
 
+<img src="images/IMG_5876.jpg" alt="image"/>
+<img src="images/IMG_5877.jpg" alt="image"/>
+<img src="images/IMG_5878.jpg" alt="image"/>
+<img src="images/IMG_5879.jpg" alt="image"/>
+<img src="images/IMG_5890.jpg" alt="image"/>
+<img src="images/IMG_5891.jpg" alt="image"/>
+<img src="images/IMG_5892.jpg" alt="image"/>
+<img src="images/IMG_5894.jpg" alt="image"/>
+<img src="images/IMG_5896.jpg" alt="image"/>
+<img src="images/IMG_5898.jpg" alt="image"/>
+<img src="images/IMG_5899.jpg" alt="image"/>
+<img src="images/IMG_5900.jpg" alt="image"/>
+
+
+
+
 
 ## Code
 <p>
