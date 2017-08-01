@@ -67,7 +67,9 @@ Thank you to everyone who helped to produce this amazing piece of machinery. :-)
 We are going to try taking some photos soon. Watch this space!
 
 
+## Raspberry Pi setup
 
+We provide instructions on how to drive the system using either an Arduino or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. 
 
 
 
