@@ -82,7 +82,7 @@ Raspberry Pi B (£34.50) or Arduino Uno (£17.30)<br>
 Canon Remote Control RC-06 (£16.99) or amazon version (£6.99)<br>
 Jumper wires<br>
 12v power supply transformer plug to drive motor via Raspberry Pi or Arduino. <br>
-Stepper motor control board with voltage adjustment (What was that?)<br>
+"<a href="https://www.coolcomponents.co.uk/en/big-easy-driver.html?gclid=Cj0KCQjwlMXMBRC1ARIsAKKGuwi1l4njTmxLjw_-HU0Y6a0uq0VRKntCE-Y4QuHq51zZWsJd3BriBewaAuWZEALw_wcB">Big Easy Driver</a>" Stepper motor control board with voltage adjustment (£22)<br>
 RS Pro Hybrid Stepper Motor 0.9°, 44Ncm, 2.8 V, 1.68 A, 4 Wires (£27.17 from http://uk.rs-online.com/web/p/stepper-motors/5350401/)<br>
 Soldering equipment<br>
 Hot glue gun
