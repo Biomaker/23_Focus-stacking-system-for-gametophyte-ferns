@@ -69,9 +69,7 @@ Tim has carried out some experiments on the travel that is produced in the focus
 We provide instructions on how to build and drive the system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. 
 
 
-## List of Hardware Bits
-
-### Both versions
+## List of Hardware Bits for the Rail
 
 Bit of discarded worktop (£0)<br>
 Bit of sawn off Nikon Optiphot or Labophot microscope (£0 this time, but I was very lucky)<br>
@@ -96,12 +94,19 @@ USB cable to connect to laptop
 SD card<br>
 Wireless dongle 
 
+## Hardware bits for the optics. 
 
+This can vary a bit, but here is what I am using:
 
+Canon 5d MkII camera body (£1200 several years ago from DigitalRev)
+Olympus Zuiko 200mm prime lens (available used only, as it is about 30 years old - about £70 on ebay)
+M26X0.706 Mitutoyo microscope female thread to M55mm 55X0.75 adapter micrography (£11.48 on ebay)
+10X Mitutoyo Plan Apo Infinity Corrected Long WD Objective (From Mitutoyo: £677.16)
 
+## Other bits
 
-
-
+I stand my fern specimens on a bit of blutac on top of a paint pot. 
+The lens of the camera needs to be slightly propped up to be horizontal and I do that
 
 
 
