@@ -1,5 +1,17 @@
 ## Hardware
 
+Connect pins as follows:
+
+Infra red remote control:
+
+Black wire Digital 13 to IR + terminal nearest bulb 
+White wire GND to IR terminal furthest from bulb. 
+
+Stepper motor shield to Arduino
+
+Grey wire GND to GND
+
+
 ## Code
 //Declare pin functions on Arduino<br />
 #define stp 2<br />
