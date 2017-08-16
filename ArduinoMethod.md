@@ -13,7 +13,11 @@ Grey wire GND to GND
 
 ### Images
 
-This is the setup from the side. From left to right, the parts are the Arduino, the stepper motor shield, the stepper motor, and then the cogs from the stepper motor to the microscope section on which the camera is mounted. 
+This is the full setup from the top. From top to bottom, the parts are the microscope block connected via cogs to the stepper motor. The stepper motor is then wired to a stepper motor shield, which is in turn wired to the Arduino at the bottom of the photo. 
+
+<img src="images/IMG_5946.JPG" alt="image"/>
+
+This is the same setup from the side. From left to right, the parts are the Arduino, the stepper motor shield, the stepper motor, and then the cogs from the stepper motor to the microscope section on which the camera is mounted. 
 
 <img src="images/_MG_5954edit.jpg" alt="image"/>
 
@@ -32,7 +36,7 @@ The next two images show in detail where the jumper wires need to be connected.
 
 <img src="images/IMG_5944.JPG" alt="image"/>
 <img src="images/IMG_5945.JPG" alt="image"/>
-<img src="images/IMG_5946.JPG" alt="image"/>
+
 
 These last two images show how the infra red camera trigger is wired up. Tim had to take the case right off and then soldered on wires, and firmly connected them using a hot glue gun. 
 
