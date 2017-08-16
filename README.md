@@ -26,7 +26,7 @@ You can see the focus knob under the camera. It allows the top section of the bl
 
 Switching now to the other side - below, you can also see the stepper motor, and the gearing that allows it to drive the fine focus control. The focusing can be driven by a Raspberry Pi or an Arduino, as shown in the two photographs below. The red board is a stepper motor shield. 
 
-We provide instructions on how to drive the system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. Please see one or other of these pages for the wiring information, depending on which hardware you are using. The Arduino setup was much simpler to do than the Pi version, but has to be run from batteries. The Pi verion is far harder to setup, but can be driven from mains power. 
+We provide instructions on how to drive the system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. Please see one or other of these pages for the wiring information, depending on which hardware you are using. 
 
 Raspberry Pi setup:
 
