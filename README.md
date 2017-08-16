@@ -20,11 +20,9 @@ We provide instructions on how to drive the system using either an <a href="http
 
 Here is the hardware setup. The focus block, on which the camera rests, is a block from a Nikon Optiphot or Labophot microscope. It was sawn out of the microscope by Doc.Al of the http://www.photomacrography.net/ forum. He also drilled holes in it, which have allowed me to fasten it to the board. The board is a piece of discarded kitchen worktop.
 
+You can see the focus knob under the camera. It allows the top section of the block to be moved back and forth. There is a coarse and fine focus knob. On the other side of the focus block there are identical focus knobs. 
+
 <img src="images/IMG_5249.JPG" alt="image"/>
-
-Below is a close-up shot of the camera with a Canon MP-E lens mounted on the block. You can see the focus knob under the camera. It allows the top section of the block to be moved back and forth. There is a coarse and fine focus knob. On the other side of the focus block there are identical focus knobs. 
-
-<img src="images/IMG_5243.JPG" alt="image"/>
 
 Switching now to the other side - below, you can also see the stepper motor, and the gearing that allows it to drive the fine focus control. The driver board (red) and a Raspberry Pi are also shown. These allow us to control the stepper motor. 
 
