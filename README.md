@@ -64,13 +64,6 @@ This is the other side. The wires are attached firmly to the board using the glu
 Tim has carried out some experiments on the travel that is produced in the focus block using this stepper motor setup. He figured out that a single step of the stepper motor moves the top part of the focus block 1/128th of a μm (micro metre), which is very very good for our purposes.The movement is very smooth indeed. 
 
 
-
-
-## Arduino or Raspberry Pi
-
-We provide instructions on how to build and drive the system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. 
-
-
 ## List of Hardware Bits for the Rail
 
 Bit of discarded worktop (£0)<br>
