@@ -107,8 +107,11 @@ The lens of the camera needs to be slightly propped up to be horizontal and I do
 
 ## Installation, Maintenance and Testing Guide
 
-Provide instructions on usage, describe a test scheme and show how to run the tests with code and hardware configuration examples with some representative results.
+This is the complicated bit. 
+
+I'll have a go another day. 
+
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.) you have chosen to use
+I have no idea what to write here. 
