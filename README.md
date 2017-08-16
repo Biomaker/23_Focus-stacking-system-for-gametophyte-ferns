@@ -93,14 +93,14 @@ Wireless dongle
 
 This can vary a bit, but here is what I am using:
 
-Canon 5d MkII camera body (£1200 several years ago from DigitalRev)
-Olympus Zuiko 200mm prime lens (available used only, as it is about 30 years old - about £70 on ebay)
-M26X0.706 Mitutoyo microscope female thread to M55mm 55X0.75 adapter micrography (£11.48 on ebay)
+Canon 5d MkII camera body (£1200 several years ago from DigitalRev)<br>
+Olympus Zuiko 200mm prime lens (available used only, as it is about 30 years old - about £70 on ebay)<br>
+M26X0.706 Mitutoyo microscope female thread to M55mm 55X0.75 adapter micrography (£11.48 on ebay)<br>
 10X Mitutoyo Plan Apo Infinity Corrected Long WD Objective (From Mitutoyo: £677.16)
 
 ## Other bits
 
-I stand my fern specimens on a bit of blutac on top of a paint pot. 
+I stand my fern specimens on a bit of blutac on top of a paint pot. <br>
 The lens of the camera needs to be slightly propped up to be horizontal and I do that
 
 
