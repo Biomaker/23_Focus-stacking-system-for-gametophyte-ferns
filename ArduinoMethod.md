@@ -13,10 +13,17 @@ Grey wire GND to GND
 
 ###Images
 
+This is the setup from the side. From left to right, the parts are the Arduino, the stepper motor shield, the stepper motor, and then the cogs from the stepper motor to the microscope section on which the camera is mounted. 
+
 <img src="images/_MG_5954edit.jpg" alt="image"/>
+
+Below, again, is the full setup, but shown from slightly above. 
+
 <img src="images/_MG_5955edit.jpg" alt="image"/>
-<img src="images/_MG_5958edit.jpg" alt="image"/>
-<img src="images/_MG_5960edit.jpg" alt="image"/>
+
+This is the set of cogs that allow the stepper motor to drive the microscope block. The cogs are fairly soft plastic and we just got the off the shelf in Maplin. We cut the insides out and they slid easily onto the microscope knob. 
+
+
 <img src="images/_MG_5961edit.jpg" alt="image"/>
 <img src="images/_MG_5941edit.jpg" alt="image"/>
 <img src="images/IMG_5942.JPG" alt="image"/>
@@ -24,6 +31,8 @@ Grey wire GND to GND
 <img src="images/IMG_5944.JPG" alt="image"/>
 <img src="images/IMG_5945.JPG" alt="image"/>
 <img src="images/IMG_5946.JPG" alt="image"/>
+<img src="images/_MG_5958edit.jpg" alt="image"/>
+<img src="images/_MG_5960edit.jpg" alt="image"/>
 
 
 
