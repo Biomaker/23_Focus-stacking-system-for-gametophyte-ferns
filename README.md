@@ -101,7 +101,7 @@ M26X0.706 Mitutoyo microscope female thread to M55mm 55X0.75 adapter micrography
 ## Other bits
 
 I stand my fern specimens on a bit of blutac on top of a paint pot. <br>
-The lens of the camera needs to be slightly propped up to be horizontal and I do that
+The lens of the camera needs to be slightly propped up to be horizontal and I do that by putting the shaft of a screwdriver under it sideways. It looks a bit rough and ready, but it works really well, as it is effectively a very slightly inclined wedge so can be adjusted in very slight increments to get exactly the right angle for the lens. 
 
 
 
