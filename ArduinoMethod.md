@@ -4,7 +4,7 @@ This section explains what hardware is required for an Arduino-driven system, an
 
 ### The full setup from several angles
 
-This is the full setup from the top. From top to bottom, the parts are the microscope block connected via cogs to the stepper motor. The stepper motor is then wired to a stepper motor shield, which is in turn wired to the Arduino at the bottom of the photo. 
+This is the full setup from above. From top to bottom, the parts are the microscope block connected via cogs to the stepper motor. The stepper motor is then wired to a stepper motor shield, which is in turn wired to the Arduino at the bottom of the photo. 
 
 <img src="images/IMG_5946.JPG" alt="image"/>
 
