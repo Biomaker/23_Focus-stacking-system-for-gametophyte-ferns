@@ -13,12 +13,12 @@ Grey wire GND to GND
 
 ###Images
 
-<img src="images/_MG_5954edit.JPG" alt="image"/>
-<img src="images/_MG_5955edit.JPG" alt="image"/>
-<img src="images/_MG_5958edit.JPG" alt="image"/>
-<img src="images/_MG_5960edit.JPG" alt="image"/>
-<img src="images/_MG_5961edit.JPG" alt="image"/>
-<img src="images/_MG_5941edit.JPG" alt="image"/>
+<img src="images/_MG_5954edit.jpg" alt="image"/>
+<img src="images/_MG_5955edit.jpg" alt="image"/>
+<img src="images/_MG_5958edit.jpg" alt="image"/>
+<img src="images/_MG_5960edit.jpg" alt="image"/>
+<img src="images/_MG_5961edit.jpg" alt="image"/>
+<img src="images/_MG_5941edit.jpg" alt="image"/>
 <img src="images/IMG_5942.JPG" alt="image"/>
 
 <img src="images/IMG_5944.JPG" alt="image"/>
