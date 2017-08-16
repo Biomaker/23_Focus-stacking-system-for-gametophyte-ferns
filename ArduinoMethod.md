@@ -31,9 +31,9 @@ This is the set of cogs that allow the stepper motor to drive the microscope blo
 
 The next three images show in detail where the jumper wires need to be connected. 
 
+<img src="images/IMG_5945.JPG" alt="image"/>
 <img src="images/IMG_5942.JPG" alt="image"/>
 <img src="images/IMG_5944.JPG" alt="image"/>
-<img src="images/IMG_5945.JPG" alt="image"/>
 
 This is the stepper motor shield, and the image also shows the colours of the wires and where they are soldered onto the board. 
 
