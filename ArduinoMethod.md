@@ -33,13 +33,13 @@ The stepper motor shield is shown in this image:
 
 The wire connections from the top left corner of the stepper shield to the Arduino are as follows:
 
-GND to GND
-STEP to Digital 2
+GND to GND<br>
+STEP to Digital 2<br>
 DIR to Digital 3
 
 #### Stepper motor to stepper motor shield
 
-The stepper motor has four wires which are all unlabelled. It took us some work to figure out which was which, so that we could connect them to the right places. Out four wires are blue, green, red and black. They are connected to the pairs of holes labelled "A" and "B" at the bottom centre of the shield as seen in the photo above.
+The stepper motor has four wires which are all unlabelled. It took us some work to figure out which was which, so that we could connect them to the right places. Our four wires are blue, green, red and black. They are connected to the pairs of holes labelled "A" and "B" at the bottom centre of the shield as seen in the photo above.
 
 #### Power cable to stepper motor
 
