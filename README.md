@@ -42,7 +42,7 @@ Below is a close-up view of the gearing. The gear wheels were bought from http:/
 
 <img src="images/IMG_5238.JPG" alt="image"/>
 
-Below in close-up is the driver board that allows the Raspberry pi to drive the stepper motor. The stepper motor is a 4-wire bipolar stepper motor, and requires an H-bridge chip to drive it. The board brought a number of specific advantages over just using an H-bridge and breadboard. The motor is able to turn a single complete turn of its spindle in 400 steps, but with the driver board this can be changed to 16 steps. The current reaching the motor can also be controlled so that the motor does not burn out. 
+Below, in close-up, is the driver board that allows the Raspberry Pi or Arduino to drive the stepper motor. The stepper motor is a 4-wire bipolar stepper motor, and requires an H-bridge chip to drive it. The board brought a number of specific advantages over just using an H-bridge and breadboard. The motor is able to turn a single complete turn of its spindle in 400 steps, but with the driver board this can be changed to 16 steps. The current reaching the motor can also be controlled so that the motor does not burn out. 
 
 
 <img src="images/IMG_5240.JPG" alt="image"/>
@@ -50,7 +50,7 @@ Below in close-up is the driver board that allows the Raspberry pi to drive the 
 
 
 
-Tim devised a system whereby the Raspberry Pi or Arduino could also send a signal to fire the shutter of the camera automatically. He took apart a 3rd-party infra red Canon camera remote control and wired it up to the Raspberry Pi terminals. This means that he can write a single python programme to operate the stepper motor, and fire the shutter of the camera alternately. We have tried this and it works well. 
+Tim devised a system whereby the Raspberry Pi or Arduino could also send a signal to fire the shutter of the camera automatically. He took apart a 3rd-party infra red Canon camera remote control and wired it up to the Raspberry Pi or Arduino terminals. This meant that he could write a single programme to operate the stepper motor, and fire the shutter of the camera alternately. We have tried this and it works well. 
 
 Below is a photograph of the infra red remote control with its new wiring. 
 
