@@ -44,9 +44,15 @@ Below in close-up is the driver board that allows the Raspberry pi to drive the 
 
 The system can be driven by a Raspberry Pi or an Arduino, and photographs of the two possible setups are shown below. 
 
+Raspberry Pi:
+
 <img src="images/IMG_5241.JPG" alt="image"/>
 
-INSERT ARDUINO PHOTO HERE.
+Arduino:
+
+<img src="images/IMG_5946.JPG" alt="image"/>
+
+
 
 Tim devised a system whereby the Raspberry Pi or Arduino could also send a signal to fire the shutter of the camera automatically. He took apart a 3rd-party infra red Canon camera remote control and wired it up to the Raspberry Pi terminals. This means that he can write a single python programme to operate the stepper motor, and fire the shutter of the camera alternately. We have tried this and it works well. 
 
