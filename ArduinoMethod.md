@@ -20,7 +20,7 @@ Grey wire GND to GND
 <img src="images/_MG_5961edit.JPG" alt="image"/>
 <img src="images/_MG_5941edit.JPG" alt="image"/>
 <img src="images/IMG_5942.JPG" alt="image"/>
-<img src="images/IMG_5943.JPG" alt="image"/>
+
 <img src="images/IMG_5944.JPG" alt="image"/>
 <img src="images/IMG_5945.JPG" alt="image"/>
 <img src="images/IMG_5946.JPG" alt="image"/>
