@@ -80,7 +80,7 @@ Jumper wires<br>
 Soldering equipment<br>
 Hot glue gun
 
-### Arduino version also requires
+### Arduino version also requires:
 
 USB cable to connect to laptop
 
