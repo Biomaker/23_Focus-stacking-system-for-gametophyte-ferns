@@ -29,12 +29,12 @@ This is the set of cogs that allow the stepper motor to drive the microscope blo
 
 <img src="images/_MG_5958edit.jpg" alt="image"/>
 
-The next two images show in detail where the jumper wires need to be connected. 
-
+The next three images show in detail where the jumper wires need to be connected. 
+<img src="images/IMG_5944.JPG" alt="image"/>
 <img src="images/_MG_5941edit.jpg" alt="image"/>
 <img src="images/IMG_5942.JPG" alt="image"/>
 
-<img src="images/IMG_5944.JPG" alt="image"/>
+
 <img src="images/IMG_5945.JPG" alt="image"/>
 
 
