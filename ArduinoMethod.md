@@ -43,7 +43,7 @@ The stepper motor has four wires which are all unlabelled. It took us some work 
 
 #### Power cable to stepper motor
 
-The stepper motor needs power to operate, and this is provided view the stepper motor shield. We used a 12V transforner plug which, the wires of which are soldered directly onto the stepper motor shield. Those wires are the black wires visible in the bottom left part of the image above. They are soldered to GND and M+.
+The stepper motor needs power to operate, and this is provided via the stepper motor shield. We used a 12V transforner plug which, the wires of which are soldered directly onto the stepper motor shield. Those wires are the black wires visible in the bottom left part of the image above. They are soldered to GND and M+.
 
 #### Infra red remote control:
 
