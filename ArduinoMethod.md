@@ -54,7 +54,7 @@ The two images below show how the infra red camera trigger is wired up. Tim had 
 
 These wires are connected to the Arduino as follows:
 
-Digital 13 to IR + terminal nearest bulb 
+Digital 13 to IR + terminal nearest bulb.<br>
 GND to IR terminal furthest from bulb. 
 
 ### The cogs
