@@ -25,12 +25,16 @@ This is the set of cogs that allow the stepper motor to drive the microscope blo
 
 <img src="images/_MG_5958edit.jpg" alt="image"/>
 
+The next two images show in detail where the jumper wires need to be connected. 
+
 <img src="images/_MG_5941edit.jpg" alt="image"/>
 <img src="images/IMG_5942.JPG" alt="image"/>
 
 <img src="images/IMG_5944.JPG" alt="image"/>
 <img src="images/IMG_5945.JPG" alt="image"/>
 <img src="images/IMG_5946.JPG" alt="image"/>
+
+These last two images show how the infra red camera trigger is wired up. Tim had to take the case right off and then soldered on wires, and firmly connected them using a hot glue gun. 
 
 <img src="images/_MG_5960edit.jpg" alt="image"/>
 <img src="images/_MG_5961edit.jpg" alt="image"/>
