@@ -24,14 +24,21 @@ You can see the focus knob under the camera. It allows the top section of the bl
 
 <img src="images/IMG_5249.JPG" alt="image"/>
 
-Switching now to the other side - below, you can also see the stepper motor, and the gearing that allows it to drive the fine focus control. The driver board (red) and a Raspberry Pi are also shown. These allow us to control the stepper motor. 
+Switching now to the other side - below, you can also see the stepper motor, and the gearing that allows it to drive the fine focus control. The focusing can be driven by a Raspberry Pi or an Arduino, as shown in the two photographs below. The red board is a stepper motor shield. 
 
-The stepper motor is an RS Pro Hybrid Stepper Motor 0.9°, 44 Ncm, 2.8 V, 1.68 A, 4-wire motor, which was bought from http://uk.rs-online.com/. I intentionally brought quite a beefy motor in the hope that it would be less likely to burn out. It is also very square in the body, which helps to brace it against the board. 
+We provide instructions on how to drive the system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. Please see one or other of these pages for the software documentation depending on which hardware you are using. 
+
+Raspberry Pi setup:
 
 <img src="images/IMG_5239.JPG" alt="image"/>
 
+Arduino setup:
 
-Here is a close-up view of the gearing. The gear wheels were bought from http://www.maplin.co.uk/ and then the centres were drilled out or cut out with a hacksaw blade. The plastic gears were very soft, and easy to cut. 
+<img src="images/IMG_5946.JPG" alt="image"/>
+
+The stepper motor is an RS Pro Hybrid Stepper Motor 0.9°, 44 Ncm, 2.8 V, 1.68 A, 4-wire motor, which was bought from http://uk.rs-online.com/. I intentionally brought quite a beefy motor in the hope that it would be less likely to burn out. It is also very square in the body, which helps to brace it against the board. 
+
+Below is a close-up view of the gearing. The gear wheels were bought from http://www.maplin.co.uk/ and then the centres were drilled out or cut out with a hacksaw blade. The plastic gears were very soft, and easy to cut. 
 
 <img src="images/IMG_5238.JPG" alt="image"/>
 
@@ -40,15 +47,6 @@ Below in close-up is the driver board that allows the Raspberry pi to drive the 
 
 <img src="images/IMG_5240.JPG" alt="image"/>
 
-The system can be driven by a Raspberry Pi or an Arduino, and photographs of the two possible setups are shown below. 
-
-Raspberry Pi:
-
-<img src="images/IMG_5241.JPG" alt="image"/>
-
-Arduino:
-
-<img src="images/IMG_5946.JPG" alt="image"/>
 
 
 
