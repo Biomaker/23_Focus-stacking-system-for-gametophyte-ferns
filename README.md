@@ -125,9 +125,7 @@ The lens of the camera needs to be slightly propped up to be horizontal and I do
 
 ## Installation, Maintenance and Testing Guide
 
-This is the complicated bit. 
-
-I'll have a go another day. 
+a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/Test"> guide to testing</a> is provided. 
 
 
 ## License
