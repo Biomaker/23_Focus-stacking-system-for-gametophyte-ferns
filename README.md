@@ -14,16 +14,17 @@ The technique to be used is called focus stacking and Jennifer Deegan has alread
 
 <img src="images/stackimagetinyweb.jpg" alt="image"/>
 
-This project is a collaboration between many people. The principles of the design came from the forum members at  http://www.photomacrography.net/. The design is particularly based on the Bratcam, by Chris Slaybaugh. The focus block was given to me as a gift by one of the forum members (Doc.Al). Some of the electronics and programming, and some of the fitting together were done by my husband, Tim Deegan. He also helped with the principles of the design. I (Jennifer Deegan) did everything else.
-
-
-
-
+This project is a collaboration between many people. The principles of the design came from the forum members at  http://www.photomacrography.net/. The design is particularly based on the Bratcam, by Chris Slaybaugh. The focus block was provided as a gift by one of the forum members (Doc.Al). Some of the electronics and programming, and some of the fitting together were carried out by Tim Deegan. He also helped with the principles of the design. Jennifer Deegan did everything else.
 
 
 ## Hardware
 
-There is a lot of complex hardware involved in this project so I give a structured introduction to it on this page, and each section references another page, on which details of that part are given. 
+There is a lot of complex hardware involved in this project, so a structured introduction is given on this page, and each section references another page, on which details of that part are given. 
+
+The following is an image of the full photographic setup:
+
+[INSERT IMAGE]
+
 
 ### Rail Hardware
 
@@ -39,8 +40,8 @@ Effective <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gam
 
 ### Other hardware
 
-I stand my fern specimens on a bit of blutac on top of a paint pot. <br>
-The lens of the camera needs to be slightly propped up to be horizontal and I do that by putting the shaft of a screwdriver under it sideways. It looks a bit rough and ready, but it works really well, as it is effectively a very slightly inclined wedge so can be adjusted in very slight increments to get exactly the right angle for the lens. 
+Fern specimens are mounted on a piece of blutac on top of a paint pot. <br>
+The lens of the camera needs to be slightly propped up to be horizontal and this is done by putting the shaft of a screwdriver under it sideways. This is effectively a very slightly inclined wedge so can be adjusted in very slight increments to get exactly the right angle for the lens. 
 
 ## Software
 
@@ -48,11 +49,11 @@ There is a lot of software involved in this project. Some was bought, and some w
 
 ### In-house software
 
-We wrote the software to drive the rail ourselves. We provide instructions on how to drive the rail system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. Please see one or other of these pages for the software documentation depending on which hardware you are using. 
+Software was written in-house to drive the rail. We provide instructions on how to drive the rail system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. Please see one or other of these pages for the software documentation depending on which hardware you are using. 
 
 ### Bought software
 
-We also used the following pieces of commercial software:
+The following pieces of commercial software were used:
 
 Helicon focus for stacking the images<br>
 EOS Remote for focussing the camera and figuring out the camara settings. <br>
