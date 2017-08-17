@@ -10,7 +10,7 @@
 
 The aim of this project is to home-build a microscope capable of photographing gametophyte ferns. The style of photography aims to produce attractive images of the sort that might normally be seen on the front of Gardeners' World Magazine, or similar. 
 
-The technique to be used is called focus stacking and Jennifer Deegan has already worked extensively on developing a system. She has taken a fairly good photograph of a gametophyte fern, using a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/Background.md">set up that relies on a modified flatbed scanner</a> (image below). The aim of this current project is to significantly improve on that first image. 
+The technique to be used is called focus stacking and Jennifer Deegan has already worked extensively on developing a system. She has taken a fairly good photograph of a gametophyte fern, using a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/Background.md">set up that relies on a modified flatbed scanner</a> (image below). For a full understanding of focus stacking please refer to the <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/Background.md">flatbed scanner introduction page</a>. The aim of this current project is to significantly improve on that first image. 
 
 <img src="images/stackimagetinyweb.jpg" alt="image"/>
 
