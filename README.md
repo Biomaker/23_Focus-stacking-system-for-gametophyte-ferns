@@ -99,11 +99,11 @@ M26X0.706 Mitutoyo microscope female thread to M55mm 55X0.75 adapter micrography
 10X Mitutoyo Plan Apo Infinity Corrected Long WD Objective (From Mitutoyo: £677.16)
 Canon MP_E lens for magnifications under x5.
 
-A <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/optics"> is provided</a>. 
+An <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/optics"> explanation of setup of the optics is provided</a>. 
 
 ## Hardware for the lighting. 
 
-The rig can be lit with natural light if long exposures are to be used, or with <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/lighting"flashes</a>, for shorter exposures that will stop any movement in the rig. My lighting equipment is as follows:
+The rig can be lit with natural light if long exposures are to be used, or with <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/lighting"> flashes</a>, for shorter exposures that will stop any movement in the rig. My lighting equipment is as follows:
 
 Yongnuo YN-560 IV Flash Speedlite x3<br>
 Yongnuo YN560-TX Trigger - Wireless flash controller<br>
