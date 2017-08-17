@@ -112,8 +112,8 @@ A polystyrene cup to use as a diffuser. These are hard to come by now, but can b
 
 ## Bought software
 
-Helicon focus for stacking the images
-EOS Remote for focussing the camera and figuring out the camara settings. 
+Helicon focus for stacking the images<br>
+EOS Remote for focussing the camera and figuring out the camara settings. <br>
 Adobe photoshop. 
 
 ## Other bits
