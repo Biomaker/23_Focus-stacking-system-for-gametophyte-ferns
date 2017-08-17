@@ -4,7 +4,7 @@ This is a focus stacked photograph of a fern gametophyte. The subject is about 3
 try to take a series of photos of fern gametophytes as they develop from a single cell, until the point when the first 
 sporophyte leaf emerges. 
 
-<img src="images/HugeWithExif.jpg" alt="image"/>
+<img src="images/stackimagetinyweb.jpg" alt="image"/>
 
 The photograph above was taken using a Canon DSLR with an MP-E 5x macro lens and 4cms of extension tubes, to increase
 the magnification to about 10x.
@@ -49,7 +49,7 @@ My hope would be to design and build something related to this Bratcam setup, bu
 
 Here's my current best image again as a reminder of what I am aiming to improve upon. 
 
-<img src="images/HugeWithExif.jpg" alt="image"/>
+<img src="images/stackimagetinyweb.jpg" alt="image"/>
 
 
 
