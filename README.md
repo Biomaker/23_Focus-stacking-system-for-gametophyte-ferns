@@ -32,7 +32,7 @@ The <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophy
 
 ### Hardware for the optics. 
 
-The quality of the <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/optics"> optics</a> is critical, as this determines the quality of the slices from which the final stacked image is derived. 
+The quality of the <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/optics.md"> optics</a> is critical, as this determines the quality of the slices from which the final stacked image is derived. 
 
 ### Hardware for the lighting. 
 
@@ -63,7 +63,7 @@ Adobe photoshop.
 
 ## Installation, Maintenance and Testing Guide
 
-a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/Test"> guide to testing</a> is provided. 
+a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/Test.md"> guide to testing</a> is provided. 
 
 
 ## License
