@@ -1,4 +1,11 @@
 
+<img src="images/banner.jpg" alt="image"/>
+
+<img src="images/Jennifer-Deegan.jpg" alt="image"/>
+<img src="images/Tim Deegan.jpg" alt="image"/>
+<img src="images/Richard Mortier.jpg" alt="image"/>
+
+
 ## Synopsis
 
 The aim of this project is to home-build a microscope capable of photographing gametophyte ferns. The style of photography aims to produce attractive images of the sort that might normally be seen on the front of Gardeners' World Magazine, or similar. 
@@ -9,11 +16,6 @@ The technique to be used is called focus stacking and Jennifer Deegan has alread
 
 This project is a collaboration between many people. The principles of the design came from the forum members at  http://www.photomacrography.net/. The design is particularly based on the Bratcam, by Chris Slaybaugh. The focus block was given to me as a gift by one of the forum members (Doc.Al). Some of the electronics and programming, and some of the fitting together were done by my husband, Tim Deegan. He also helped with the principles of the design. I (Jennifer Deegan) did everything else.
 
-<img src="images/banner.jpg" alt="image"/>
-
-<img src="images/Jennifer-Deegan.jpg" alt="image"/>
-<img src="images/Tim Deegan.jpg" alt="image"/>
-<img src="images/Richard Mortier.jpg" alt="image"/>
 
 
 
