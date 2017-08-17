@@ -89,7 +89,7 @@ USB cable to connect to laptop
 SD card<br>
 Wireless dongle 
 
-## Hardware bits for the optics. 
+## Hardware for the optics. 
 
 This can vary a bit, but here is what I am using:
 
@@ -97,6 +97,24 @@ Canon 5d MkII camera body (£1200 several years ago from DigitalRev)<br>
 Olympus Zuiko 200mm prime lens (available used only, as it is about 30 years old - about £70 on ebay)<br>
 M26X0.706 Mitutoyo microscope female thread to M55mm 55X0.75 adapter micrography (£11.48 on ebay)<br>
 10X Mitutoyo Plan Apo Infinity Corrected Long WD Objective (From Mitutoyo: £677.16)
+Canon MP_E lens for magnifications under x5.
+
+A <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/optics"> is provided</a>. 
+
+## Hardware for the lighting. 
+
+The rig can be lit with natural light if long exposures are to be used, or with <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/lighting"flashes</a>, for shorter exposures that will stop any movement in the rig. My lighting equipment is as follows:
+
+Yongnuo YN-560 IV Flash Speedlite x3<br>
+Yongnuo YN560-TX Trigger - Wireless flash controller<br>
+14 x AA rechargeable batteries<br>
+A polystyrene cup to use as a diffuser. These are hard to come by now, but can be bought from ebay in sets of 25.
+
+## Bought software
+
+Helicon focus for stacking the images
+EOS Remote for focussing the camera and figuring out the camara settings. 
+Adobe photoshop. 
 
 ## Other bits
 
