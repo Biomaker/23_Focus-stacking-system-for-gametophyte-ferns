@@ -24,22 +24,22 @@ There is a lot of complex hardware involved in this project so I give a structur
 
 The <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/rail.md"> hardware for the rail</a> is one of the most critical parts, as this gives very fine control over the movement of the camera, and underpins the quality of the slices from which the stack is derived.  
 
-## Hardware for the optics. 
+### Hardware for the optics. 
 
 The quality of the <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/optics"> optics</a> is critical, as this determines the quality of the slices from which the final stacked image is derived. 
 
-## Hardware for the lighting. 
+### Hardware for the lighting. 
 
 Effective <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/lighting.md">lighting</a> of gametophyte ferns for macrophotography is very tricky. These subjects are translucent and tend to produce specular highlights when the cells reflect the light of a camera flash, or create diffuse white lighting across the whole image. We have attempted to mitigate these issues using the techniquest described. 
 
 
-## Bought software
+### Bought software
 
 Helicon focus for stacking the images<br>
 EOS Remote for focussing the camera and figuring out the camara settings. <br>
 Adobe photoshop. 
 
-## Other bits
+### Other bits
 
 I stand my fern specimens on a bit of blutac on top of a paint pot. <br>
 The lens of the camera needs to be slightly propped up to be horizontal and I do that by putting the shaft of a screwdriver under it sideways. It looks a bit rough and ready, but it works really well, as it is effectively a very slightly inclined wedge so can be adjusted in very slight increments to get exactly the right angle for the lens. 
