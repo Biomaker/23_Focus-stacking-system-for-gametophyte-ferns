@@ -1,6 +1,8 @@
 
 ## Synopsis
 
+The aim of this project is to home-build a microscope capable of photographing gametophyte ferns. The style of photography aims to produce attractive images of the sort that might normally be seen on the front of Gardeners' World Magazine, or similar. Gametophyte ferns are difficult to photograph well, because they are very small, and at the magnification required, the depth of field of the macro lens that is normally used is not 
+
 This project is a collaboration between many people. The principles of the design came from the lovely folks at the http://www.photomacrography.net/ forum. The design is particularly based on the Bratcam, designed by Chris Slaybaugh. The focus block was given to me as a gift by one of the forum members (Doc.Al). The electronics and programming and some of the fitting together were done by my husband, Tim Deegan. I did everything else.
 
 <img src="images/banner.jpg" alt="image"/>
@@ -20,7 +22,7 @@ We provide instructions on how to drive the system using either an <a href="http
 
 There is a lot of complex hardware involved in this project so I give a structured introduction to it on this page, and each section references another page, on which details of that part are given. 
 
-## Rail Hardware
+### Rail Hardware
 
 The <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/rail.md"> hardware for the rail</a> is one of the most critical parts, as this gives very fine control over the movement of the camera, and underpins the quality of the slices from which the stack is derived.  
 
