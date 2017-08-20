@@ -6,7 +6,7 @@ This section explains what hardware is required for a Raspberry Pi-driven system
 
 ### The full setup 
 
-This is the full setup from above. From top to bottom, the parts are the microscope block connected via cogs to the stepper motor. The stepper motor is then wired to a stepper motor shield, which is in turn wired to the Raspberry Pi at the bottom of the photo. 
+This is the full setup from above. At the top, the microscope block is connected via cogs to the stepper motor. The stepper motor is then wired to a stepper motor shield, which is in turn wired to the Raspberry Pi at the bottom of the photo. 
 
 
 <img src="images/IMG_5876.JPG" alt="image"/>
