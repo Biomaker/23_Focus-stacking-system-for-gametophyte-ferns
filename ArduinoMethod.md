@@ -47,6 +47,13 @@ The stepper motor needs power to operate, and this is provided via the stepper m
 
 #### Infra red remote control:
 
+The infra red remote control is wired up to the Arduino, so that the shot can be triggered automatically, after each forward movement of the camera. Each time the camera has moved forward, the Arduino triggers the infra red remote control bulb to light, causing the camera to take a shot. 
+
+The photos below show the position of the remote control in the setup. 
+
+<img src="images/IMG_5243.JPG" alt="image"/>
+<img src="images/IMG_5244.JPG" alt="image"/>
+
 The two images below show how the infra red camera trigger is wired up. Tim had to take the case right off and then soldered on wires, and firmly connected them using a hot glue gun. 
 
 <img src="images/_MG_5960edit.jpg" alt="image"/>
