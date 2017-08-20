@@ -14,7 +14,19 @@ This is the full setup from above. From top to bottom, the parts are the microsc
 
 <img src="images/_MG_5890.JPG" alt="image"/>
 <img src="images/_MG_5891.JPG" alt="image"/>
+
+#### Stepper motor shield to RAspberry Pi:
+
+The stepper motor shield is shown in this image:
+
 <img src="images/_MG_5892.JPG" alt="image"/>
+
+The wire connections from the top left corner of the stepper shield to the Arduino are as follows:
+
+GND to <br>
+STEP to <br>
+DIR to 
+
 <img src="images/_MG_5894.JPG" alt="image"/>
 <img src="images/_MG_5896.JPG" alt="image"/>
 <img src="images/_MG_5898.JPG" alt="image"/>
