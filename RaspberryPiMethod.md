@@ -22,19 +22,19 @@ The stepper motor shield is shown in this image:
 
 <img src="images/_MG_5891.JPG" alt="image"/>
 
-The wire connections from the top left corner of the stepper shield to the Arduino are as follows:
+The wire connections from the top left corner of the stepper shield to the Raspberry Pi are as follows:
 
 GND to <br>
 STEP to <br>
 DIR to 
 
-The jumper wires go to the GPIO pins are shown below. 
+The jumper wires go to the GPIO pins as shown below. 
 
 <img src="images/_MG_5894.JPG" alt="image"/>
 
 The exact positions of the jumper wires on the GPIO pins is shown here.
 
-<img src="images/_MG_5896.JPG" alt="image"/>
+
 <img src="images/_MG_5898.JPG" alt="image"/>
 <img src="images/_MG_5899.JPG" alt="image"/>
 <img src="images/_MG_5900.JPG" alt="image"/>
