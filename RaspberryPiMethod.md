@@ -27,7 +27,12 @@ GND to <br>
 STEP to <br>
 DIR to 
 
+The jumper wires go to the GPIO pins are shown below. 
+
 <img src="images/_MG_5894.JPG" alt="image"/>
+
+The exact positions of the jumper wires on the GPIO pins is shown here.
+
 <img src="images/_MG_5896.JPG" alt="image"/>
 <img src="images/_MG_5898.JPG" alt="image"/>
 <img src="images/_MG_5899.JPG" alt="image"/>
