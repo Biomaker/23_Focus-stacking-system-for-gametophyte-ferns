@@ -15,6 +15,13 @@ This second image shows the setup from the side. On the left is the Raspberry Pi
 
 <img src="images/_MG_5890.JPG" alt="image"/>
 
+## Wiring setup on the Raspberru Pi
+
+The exact positions of the jumper wires on the GPIO pins of the Raspberry Pi is shown here.
+
+<img src="images/_MG_5898.JPG" alt="image"/>
+
+The three jumper wires on the left side of the image lead to the stepper motor shield. The black and white wires on the right hand side of this image lead to the infra red camera remote control. 
 
 #### Stepper motor shield to Raspberry Pi:
 
@@ -32,28 +39,9 @@ The jumper wires go to the GPIO pins as shown below.
 
 <img src="images/_MG_5894.JPG" alt="image"/>
 
-The exact positions of the jumper wires on the GPIO pins is shown here.
-
+The exact positions of the jumper wires on the GPIO pins of the Raspberry Pi is shown again here.
 
 <img src="images/_MG_5898.JPG" alt="image"/>
-
-The black and white wires on the right hand side of this image lead to the infra red camera remote control. 
-
-## Infra red remote control
-
-The infra red remote control is wired up to the Raspberry Pi, so that the shot can be triggered automatically, after each forward movement of the camera. Each time the camera has moved forward, the Raspberry Pi triggers the infra red remote control bulb to light, causing the camera to take a shot. 
-
-The photos below show the position of the remote control in the setup. 
-
-<img src="images/IMG_5243.JPG" alt="image"/>
-<img src="images/IMG_5244.JPG" alt="image"/>
-
-The two images below show how the infra red camera trigger is wired up. Tim had to take the case right off and then soldered on wires, and firmly connected them using a hot glue gun. 
-
-The wiring of which is shown below. 
-<img src="images/_MG_5899.JPG" alt="image"/>
-<img src="images/_MG_5900.JPG" alt="image"/>
-
 
 
 #### Stepper motor to stepper motor shield
@@ -63,6 +51,24 @@ The stepper motor has four wires which are all unlabelled. It took us some work 
 #### Power cable to stepper motor
 
 The stepper motor needs power to operate, and this is provided via the stepper motor shield. We used a 12V transforner plug, the wires of which are soldered directly onto the stepper motor shield. Those wires are the black wires visible in the bottom left part of the image above. They are soldered to GND and M+.
+
+## Infra red remote control
+
+The infra red remote control is also wired up to the Raspberry Pi, so that the camera shot can be triggered automatically, after each forward movement of the camera. Each time the camera has moved forward, the Raspberry Pi triggers the infra red remote control bulb to light, causing the camera to take a shot. 
+
+The photos below show the position of the remote control in the setup. 
+
+<img src="images/IMG_5243.JPG" alt="image"/>
+<img src="images/IMG_5244.JPG" alt="image"/>
+
+The two images below show how the infra red camera trigger is wired up. Tim had to take the case right off and then he soldered on wires, and firmly connected them using a hot glue gun. 
+
+The wiring is shown below. 
+<img src="images/_MG_5899.JPG" alt="image"/>
+<img src="images/_MG_5900.JPG" alt="image"/>
+
+
+
 
 
 
