@@ -11,11 +11,12 @@ This is the full setup from above. From top to bottom, the parts are the microsc
 
 <img src="images/IMG_5876.JPG" alt="image"/>
 
+This second image shows the setup from the side. On the left is the Raspberry Pi, connected to the stepper motor shield in the centre, which is in turn connected to the stepper motor on the right. The stepper motor drives the microscope focus block via a couple of blue cogs. 
 
 <img src="images/_MG_5890.JPG" alt="image"/>
 
 
-#### Stepper motor shield to RAspberry Pi:
+#### Stepper motor shield to Raspberry Pi:
 
 The stepper motor shield is shown in this image:
 
