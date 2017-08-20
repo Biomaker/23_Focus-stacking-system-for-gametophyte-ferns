@@ -56,6 +56,14 @@ The wiring of which is shown below.
 
 
 
+#### Stepper motor to stepper motor shield
+
+The stepper motor has four wires which are all unlabelled. It took us some work to figure out which was which, so that we could connect them to the right places. Our four wires are blue, green, red and black. They are connected to the pairs of holes labelled "A" and "B" at the bottom centre of the shield as seen in the photo above.
+
+#### Power cable to stepper motor
+
+The stepper motor needs power to operate, and this is provided via the stepper motor shield. We used a 12V transforner plug, the wires of which are soldered directly onto the stepper motor shield. Those wires are the black wires visible in the bottom left part of the image above. They are soldered to GND and M+.
+
 
 
 ## Code
