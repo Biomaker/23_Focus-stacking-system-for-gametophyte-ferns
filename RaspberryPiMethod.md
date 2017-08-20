@@ -36,6 +36,21 @@ The exact positions of the jumper wires on the GPIO pins is shown here.
 
 
 <img src="images/_MG_5898.JPG" alt="image"/>
+
+The black and white wires on the right hand side of this image lead to the infra red camera remote control. 
+
+## Infra red remote control
+
+The infra red remote control is wired up to the Raspberry Pi, so that the shot can be triggered automatically, after each forward movement of the camera. Each time the camera has moved forward, the Raspberry Pi triggers the infra red remote control bulb to light, causing the camera to take a shot. 
+
+The photos below show the position of the remote control in the setup. 
+
+<img src="images/IMG_5243.JPG" alt="image"/>
+<img src="images/IMG_5244.JPG" alt="image"/>
+
+The two images below show how the infra red camera trigger is wired up. Tim had to take the case right off and then soldered on wires, and firmly connected them using a hot glue gun. 
+
+The wiring of which is shown below. 
 <img src="images/_MG_5899.JPG" alt="image"/>
 <img src="images/_MG_5900.JPG" alt="image"/>
 
