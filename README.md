@@ -59,7 +59,9 @@ Helicon focus for stacking the images<br>
 EOS Remote for focussing the camera and figuring out the camara settings. <br>
 Adobe photoshop. 
 
+## Growing ferns
 
+Growing the photographic specimens is one of the trickiest parts of this project. The <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/GrowingFerns.md"> protocol</a> that I am using is described. 
 
 ## Installation, Maintenance and Testing Guide
 
