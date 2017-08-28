@@ -10,7 +10,7 @@ This is the actual protocol used, taken as an image from the publication:
 
 <img src="images/image.jpg" alt="image"/>
 
-I did not initially have the protocol and started with Gamborg + vitamins, and nystatin at three different concentrations, but this resulted in very rapid growth of bacterial colonies. The nystatin level required to stop fungal growth seemed to be 1mg of nystatin per litre of medium. I think that the ferric tartrate must be needed to stop bacterial growth. 
+I did not initially have the protocol and started with Gamborg + vitamins, and nystatin at three different concentrations, but this resulted in very rapid growth of bacterial colonies. The nystatin level required to stop fungal growth seemed to be 1mg of nystatin per litre of medium. We dissolved the nystatin in DMSO but I think that the bacteria in the dish much be using the DMSO as a food source, because the bacterial contamination of the plates get radically worse with increasing DMSO content. I think next time I should dissolve the nystatin in something that is not a food source for the bacteria. Protocols online suggest 50mg nystatin per L in suspension. 
 
 The protocol talks about liquid medium but I need to add agarose to make a solid substrate on which to grow photographic specimens. We are assuming 6g of agarose per 500ml medium. 
 
