@@ -72,7 +72,11 @@ The wiring is shown below.
 
 
 
-## Code
+## Software
+
+Below is the python program that I run on the Raspberry Pi to drive the rail. I do not have a screen attached to the raspberry pi, so I plug in a wireless dongle and then drive it from my laptop. I log into the raspberry pi using putty and then run the scripts from there. The scripts can be modified in between runs, so that if I feel that the movement of the microscope block needs to be a bigger step or a smaller step then I can quickly alter the distance in the programme. I can also alter the timing. For example I can have 1 micron steps with a 3 second gap in between to make sure that there is time for vibration to stop, or I can have a 5 micron step for a larger subject and 1 second gap if there is a risk that the subject will dry out and change shape during the series. 
+
+
 <p>
 #!/usr/bin/env python
 </p><p>
