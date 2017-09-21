@@ -30,9 +30,9 @@ There is no testing mechanism for this setup other than just getting on and usin
 
 15) Tidy away all the equipment and put batteries from the camera and any flashes into chargers so they are ready for next time. 
 
-
+<img src="images/IMG_0858.JPG" alt="image"/>
 <img src="images/stack1.jpg" alt="image"/>
 <img src="images/stack2.jpg" alt="image"/>
 <img src="images/IMG_0139.jpg" alt="image"/>
-<img src="images/IMG_0858.JPG" alt="image"/>
+
 
