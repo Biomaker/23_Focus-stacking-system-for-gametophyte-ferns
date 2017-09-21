@@ -33,6 +33,6 @@ There is no testing mechanism for this setup other than just getting on and usin
 <img src="images/IMG_0858.JPG" alt="image"/>
 <img src="images/stack1.jpg" alt="image"/>
 <img src="images/stack2.jpg" alt="image"/>
-<img src="images/IMG_0139.jpg" alt="image"/>
+<img src="images/IMG_0139.JPG" alt="image"/>
 
 
