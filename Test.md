@@ -1,4 +1,4 @@
-There is no testing mechanism for this setup other than just getting on and using it really. Here is what I do with the setup all running together. 
+There is no testing mechanism for this setup other than just getting on and using it really. Here is what I do with the setup all running together. Some sample photos of a 5p piece are shown at the bottom of the page. 
 
 1) Set up the rail first and attach the arduino or raspberry pi setup to the microscope block. Follow the instructions on connecting the raspberry pi or arduino to a laptop or battery from the guides. 
 
@@ -29,4 +29,10 @@ There is no testing mechanism for this setup other than just getting on and usin
 14) When the focal point has gone right through the subject, stop the script and run the images through Helicon focus. 
 
 15) Tidy away all the equipment and put batteries from the camera and any flashes into chargers so they are ready for next time. 
+
+
+<img src="images/stack1.jpg" alt="image"/>
+<img src="images/stack2.jpg" alt="image"/>
+<img src="images/IMG_0139.jpg" alt="image"/>
+<img src="images/IMG_0858.JPG" alt="image"/>
 
