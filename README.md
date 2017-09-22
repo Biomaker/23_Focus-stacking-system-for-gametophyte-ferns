@@ -1,8 +1,13 @@
 
 <img src="images/banner.jpg" alt="image"/>
 
+Jennifer Deegan<br>
 <img src="images/Jennifer-Deegan.jpg" alt="image"/>
+
+Tim Deegan<br>
 <img src="images/Tim Deegan.jpg" alt="image"/>
+
+<Richard Mortier>
 <img src="images/Richard Mortier.jpg" alt="image"/>
 
 
