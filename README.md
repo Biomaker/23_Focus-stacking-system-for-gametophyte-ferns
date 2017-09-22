@@ -46,7 +46,7 @@ Effective <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gam
 
 ### Hardware to minimise vibration
 
-<a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/optics.md">Vibration</a> is an important factor in photography at this tiny scale, so we used specific methods and hardware to control it.
+<a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/vibration.md">Vibration</a> is an important factor in photography at this tiny scale, so we used specific methods and hardware to control it.
 
 ### Other hardware
 
