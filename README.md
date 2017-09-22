@@ -23,10 +23,6 @@ There is a lot of complex hardware involved in this project, so a structured int
 
 The following is an image of the full photographic setup including the computer setup:
 
-<img src="images/Full-setup.JPG" alt="image"/>
-
-And this is just the optical and electronic engineering end of the arrangment:
-
 <img src="images/IMG_6878.JPG" alt="image"/>
 
 This is the optics section:
