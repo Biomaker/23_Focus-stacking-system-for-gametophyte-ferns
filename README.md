@@ -1,15 +1,15 @@
 
 <img src="images/banner.jpg" alt="image"/>
 
+
+<img src="images/Jennifer-Deegan.jpg" alt="image"/><br>
 Jennifer Deegan<br>
-<img src="images/Jennifer-Deegan.jpg" alt="image"/>
 
+<img src="images/Tim Deegan.jpg" alt="image"/><br>
 Tim Deegan<br>
-<img src="images/Tim Deegan.jpg" alt="image"/>
 
-<Richard Mortier>
-<img src="images/Richard Mortier.jpg" alt="image"/>
-
+<img src="images/Richard Mortier.jpg" alt="image"/><br>
+<Richard Mortier><br>
 
 ## Synopsis
 
