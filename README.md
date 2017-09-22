@@ -9,7 +9,7 @@ Jennifer Deegan<br>
 Tim Deegan<br>
 
 <img src="images/Richard Mortier.jpg" alt="image"/><br>
-<Richard Mortier><br>
+Richard Mortier<br>
 
 ## Synopsis
 
