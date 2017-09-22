@@ -21,7 +21,11 @@ This project is a collaboration between many people. The principles of the desig
 
 There is a lot of complex hardware involved in this project, so a structured introduction is given on this page, and each section references another page, on which details of that part are given. 
 
-The following is an image of the full photographic setup including the electronics:
+The following is an image of the full photographic setup including the optics, electronics and laptop:
+
+<img src="images/IMG_6882.JPG" alt="image"/>
+
+This is the setup including just the optics and electronics:
 
 <img src="images/IMG_6878.JPG" alt="image"/>
 
