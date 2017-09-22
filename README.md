@@ -46,7 +46,7 @@ The quality of the <a href="https://github.com/BioMakers/23_Focus-stacking-syste
 
 ### Hardware for the lighting. 
 
-Effective <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/lighting.md">lighting</a> of gametophyte ferns for macrophotography is very tricky. These subjects are translucent and tend to produce specular highlights when the cells reflect the light of a camera flash, or create diffuse white lighting across the whole image. We have attempted to mitigate these issues using the techniquest described. 
+Effective <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/lighting.md">lighting</a> of gametophyte ferns for macrophotography is very tricky. These subjects are translucent and tend to produce specular highlights when the cells reflect the light of a camera flash, or create diffuse white lighting across the whole image. We have attempted to mitigate these issues using the techniques described. 
 
 ### Hardware to minimise vibration
 
@@ -54,8 +54,7 @@ Effective <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gam
 
 ### Other hardware
 
-Fern specimens are mounted on a piece of blutac on top of a paint pot. <br>
-The lens of the camera needs to be slightly propped up to be horizontal and this is done by putting the shaft of a screwdriver under it sideways. This is effectively a very slightly inclined wedge so can be adjusted in very slight increments to get exactly the right angle for the lens. 
+Fern specimens are mounted on a piece of blutac on top of a paint pot. The lens of the camera needs to be slightly propped up to be horizontal and this is done by putting a pencil eraser under it. 
 
 ## Software
 
