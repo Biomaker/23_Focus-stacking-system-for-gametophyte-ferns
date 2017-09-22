@@ -21,15 +21,15 @@ This project is a collaboration between many people. The principles of the desig
 
 There is a lot of complex hardware involved in this project, so a structured introduction is given on this page, and each section references another page, on which details of that part are given. 
 
-The following is an image of the full photographic setup including the computer setup:
+The following is an image of the full photographic setup including the optics, electronics and laptop:
 
-<img src="images/IMG_6864.JPG" alt="image"/>
+<img src="images/IMG_6882.JPG" alt="image"/>
 
-And this is just the optical and electronic engineering end of the arrangment:
+This is the setup including just the optics and electronics:
 
 <img src="images/IMG_6878.JPG" alt="image"/>
 
-This is the optics section:
+This picture shows the optics:
 
 <img src="images/IMG_6876.JPG" alt="image"/>
 
@@ -47,6 +47,10 @@ The quality of the <a href="https://github.com/BioMakers/23_Focus-stacking-syste
 ### Hardware for the lighting. 
 
 Effective <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/lighting.md">lighting</a> of gametophyte ferns for macrophotography is very tricky. These subjects are translucent and tend to produce specular highlights when the cells reflect the light of a camera flash, or create diffuse white lighting across the whole image. We have attempted to mitigate these issues using the techniquest described. 
+
+### Hardware to minimise vibration
+
+<a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/vibration.md">Vibration</a> is an important factor in photography at this tiny scale, so we used specific methods and hardware to control it.
 
 ### Other hardware
 
