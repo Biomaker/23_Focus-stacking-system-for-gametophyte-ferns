@@ -21,9 +21,19 @@ This project is a collaboration between many people. The principles of the desig
 
 There is a lot of complex hardware involved in this project, so a structured introduction is given on this page, and each section references another page, on which details of that part are given. 
 
-The following is an image of the full photographic setup:
+The following is an image of the full photographic setup including the computer setup:
 
-[INSERT IMAGE]
+<img src="images/IMG_6822.jpg" alt="image"/>
+
+And this is just the optical and electronic engineering end of the arrangment:
+
+<img src="images/IMG_6878.jpg" alt="image"/>
+
+This is the optics section:
+
+<img src="images/IMG_6876.jpg" alt="image"/>
+
+
 
 
 ### Rail Hardware
