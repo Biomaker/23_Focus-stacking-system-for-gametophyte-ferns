@@ -43,3 +43,8 @@ This is a slice taken at f/11.
 This is the compiled stack of images taken at f/11.
 <img src="images/stack2.jpg" alt="image"/>
 
+This is a slice taken at f/4.
+<img src="images/IMG_0533.JPG" alt="image"/>
+
+This is the compiled stack of images taken at f/4.
+<img src="images/numberstack.jpg" alt="image"/>
