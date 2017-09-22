@@ -25,7 +25,7 @@ The following is an image of the full photographic setup including the electroni
 
 <img src="images/IMG_6878.JPG" alt="image"/>
 
-This picture show the optics:
+This picture shows the optics:
 
 <img src="images/IMG_6876.JPG" alt="image"/>
 
