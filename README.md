@@ -87,7 +87,7 @@ a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte
 
 ## What didn't work
 
-I tried some other options that <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/WhatDidntWork.md">didn't work</a>.
+I tried some other options that <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/WhatDidntWork.md">didn't work</a>. I describe them here to avoid others duplicating effort. 
 
 ## License
 
