@@ -85,6 +85,9 @@ Growing the photographic specimens is one of the trickiest parts of this project
 
 a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/Test.md"> guide to testing</a> is provided. 
 
+## What didn't work
+
+I tried some other options that <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/WhatDidntWork.md">didn't work</a>.
 
 ## License
 
