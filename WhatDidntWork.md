@@ -9,3 +9,7 @@ I just tried putting the Canon 2x teleconverter on between the camera body and t
 Firstly the physical design of the tube lens is too narrow at the base when focussed to infinity. If I focus at 15m it fits. Once I set the focus right the lens went on but the camera body gave error messages and couldn't take any shots. 
 
 Fortunately it was okay when I took the teleconverter off again. It might have been to do with the EOS to olympus converter which also has a chip in it to accommodate the canon electronics. 
+
+
+2) Humidity
+Putting wet kitchen towel round the inside of the polystyrene cup did not help to stop the fern from shrivelling up. It still did, and very quickly. The flashes do not seem hot so I'm not sure why it happens so fast. 
