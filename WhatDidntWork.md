@@ -11,5 +11,11 @@ Firstly the physical design of the tube lens is too narrow at the base when focu
 Fortunately it was okay when I took the teleconverter off again. It might have been to do with the EOS to olympus converter which also has a chip in it to accommodate the canon electronics. 
 
 
-2) Humidity
-Putting wet kitchen towel round the inside of the polystyrene cup did not help to stop the fern from shrivelling up. It still did, and very quickly. The flashes do not seem hot so I'm not sure why it happens so fast. 
+2) Shrivelled up fern solutions - What didn't work?
+
+- Putting wet paper towel inside the cup.
+- Moving the flashes further away.
+- Bouncing the flash off a reflector.
+- Moving the whole setup into the garden (too much wind).
+- Moving the whole setup into the greenhouse (fern still shrivelled up, but slower)
+- Photographing a verbena bonariensis flower (still shrivelled up)
