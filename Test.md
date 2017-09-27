@@ -22,7 +22,7 @@ There is no testing mechanism for this setup other than just getting on and usin
 
 11) Test the script on the raspberry pi or arduino to make sure that the microscope block actually moves when it's running. Sometimes the cogs can get a bit stuck and a whole series of shots can be taken with no movement from the focus block at all. 
 
-12) Check everything one more time. 
+12) Check everything one more time. Turn on live view from EOS Remote so that the mirror will be locked up. 
 
 13) Run the script and withdraw to a safe distance to minimise vibration. Check periodically that the the stage is still moving forward, that the focal point is moving through the subject and that the images are going onto the computer, with reasonable exposure. 
 
