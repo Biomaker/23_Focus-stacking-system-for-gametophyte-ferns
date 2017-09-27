@@ -17,5 +17,5 @@ Fortunately it was okay when I took the teleconverter off again. It might have b
 - Moving the flashes further away.
 - Bouncing the flash off a reflector.
 - Moving the whole setup into the garden (too much wind).
-- Moving the whole setup into the greenhouse (fern still shrivelled up, but slower)
-- Photographing a verbena bonariensis flower (still shrivelled up)
+- Moving the whole setup into the greenhouse (fern still shrivelled up, but slower).
+- Photographing a verbena bonariensis flower using flashes (still shrivelled up).
