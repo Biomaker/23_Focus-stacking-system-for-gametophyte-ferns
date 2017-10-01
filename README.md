@@ -49,6 +49,8 @@ The <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophy
 
 The quality of the <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/optics.md"> optics</a> is critical, as this determines the quality of the slices from which the final stacked image is derived. 
 
+There is also an investigation of the <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/DepthOfField.md">depth of field</a> of the optics, using a stage micrometer. 
+
 ### Hardware for the lighting. 
 
 Effective <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/lighting.md">lighting</a> of gametophyte ferns for macrophotography is very tricky. These subjects are translucent and tend to produce specular highlights when the cells reflect the light of a camera flash, or create diffuse white lighting across the whole image. We have attempted to mitigate these issues using the techniques described. 
