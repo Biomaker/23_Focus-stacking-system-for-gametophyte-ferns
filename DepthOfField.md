@@ -17,18 +17,12 @@ This is the micrometer photographed with the Mitutoyo lens:
 
  <img src="images/Mity.JPG" alt="image"/>
 
-This is the micrometer parallel to the Mitutoyo lens to measure the depth of field. 
+This is the micrometer at 45 degrees to the Mitutoyo lens, image cropped. 
 
 <img src="images/MityDepth-uncrop.JPG" alt="image"/>
  
 
-This is a cropped version of the same. 
+This is the micrometer at 90 degrees to the optical axis of the lens, also cropped. It shows that there is sharp focus, but that I need to be using slices taken at one or at most two micrometers apart.  
 
 <img src="images/MityDepth.jpg" alt="image"/>
-
-This is a another attempt at the same with the line carefully centred in the focussed area. 
-
-<img src="images/IMG_0003crop.jpg" alt="image"/>
-
-
-It seems as though the depth of field of the Mitutoyo is about 5 micrometres. The depth of field of the MP-E seems to be a bit more than 10 micrometers. Oddly the Mitutoyo lens doesn't seem to be really well focussed at any depth. I need to think about that. 
+ 
