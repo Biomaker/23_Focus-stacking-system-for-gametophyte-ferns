@@ -26,3 +26,4 @@ This is the micrometer at 90 degrees to the optical axis of the lens, also cropp
 
 <img src="images/MityDepth.jpg" alt="image"/>
  
+One useful feature of this test was that it showed lack of sharpness if the objective was not screwed tightly into the adpater. I had not done this because the thread was too long and would have scratched the glass of the 200mm prime lens. However, it meant that the objective was sitting at an angle, which meant that no part of the image was in focus. Addition of two UV filters with the glass removed as an extension on the objective adapter solved this problem. Thanks to ChrisR of http://www.photomacrography.net for spotting this. 
