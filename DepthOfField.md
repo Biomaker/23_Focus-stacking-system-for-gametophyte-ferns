@@ -8,7 +8,7 @@ This is the micrometer at x5 on the MP-E:
 
  <img src="images/MP-Ex5.JPG" alt="image"/>
 
-This is the micrometer sitting almost parallel to the MP-E lens at x5, to measure the depth of field: 
+This is the micrometer sitting almost parallel to the MP-E lens at x5, to measure the depth of field. The focussed area is a bit less than 20 micrometres long, so I would use slices that are 10 micrometres or less apart with this lens. 
 
 <img src="images/MP-EDepth.JPG" alt="image"/>
  
