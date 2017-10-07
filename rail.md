@@ -43,7 +43,7 @@ This is the other side. The wires are attached firmly to the board using the glu
 <img src="images/_MG_5900.JPG" alt="image"/>
 
 
-Tim has carried out some experiments on the travel that is produced in the focus block using this stepper motor setup. He figured out that a single step of the stepper motor moves the top part of the focus block 1/128th of a μm (micro metre), which is very very good for our purposes.The movement is very smooth indeed. 
+Tim has carried out some experiments on the travel that is produced in the focus block using this stepper motor setup. He figured out that a single step of the stepper motor moves the top part of the focus block 1/1280th of a μm (micro metre), which is very very good for our purposes.The movement is very smooth indeed. The depth of field of the optics with the Mitutoyo lens is about 2 microns, so we need to do about 1280 steps of the stepper motor between each slice for a 1 micron movement. This moves the fine focus knob round by ten marked units.
 
 
 ## List of Hardware Bits for the Rail
