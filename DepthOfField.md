@@ -8,7 +8,7 @@ This is the micrometer at x5 on the MP-E:
 
  <img src="images/MP-Ex5.JPG" alt="image"/>
 
-This is the micrometer sitting almost parallel to the MP-E lens at x5, to measure the depth of field. The focussed area is a bit less than 20 micrometres long, so I would use slices that are 10 micrometres or less apart with this lens. 
+This is the micrometer sitting almost parallel to the MP-E lens at x5, to measure the depth of field. The focussed area is a bit less than 2 marks on the micrometer which is 200 micrometres. 
 
 <img src="images/MP-EDepth.JPG" alt="image"/>
  
@@ -22,7 +22,7 @@ This is the micrometer at 45 degrees to the Mitutoyo lens, image cropped.
 <img src="images/MityDepth-uncrop.JPG" alt="image"/>
  
 
-This is the micrometer at 90 degrees to the optical axis of the lens, also cropped. It shows that there is sharp focus, but that I need to be using slices taken at one or at most two micrometers apart.  
+This is the micrometer at 90 degrees to the optical axis of the lens, also cropped. It shows that there is sharp focus, but that I need to be using slices taken ten or twenty micrometers apart.  In the end I settled on 17 microns which was 17 x 128 steps of the stepper motor. 
 
 <img src="images/MityDepth.jpg" alt="image"/>
  
