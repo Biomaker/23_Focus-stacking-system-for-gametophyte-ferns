@@ -12,7 +12,7 @@ Tim Deegan<br>
 Richard Mortier<br>
 
 <img src="images/matthew_couchman.jpg" alt="image"/><br>
-Richard Mortier<br>
+Matthew Couchman<br>
 
 ## Synopsis
 
