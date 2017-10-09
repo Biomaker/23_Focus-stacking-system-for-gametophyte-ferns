@@ -11,6 +11,9 @@ Tim Deegan<br>
 <img src="images/Richard Mortier.jpg" alt="image"/><br>
 Richard Mortier<br>
 
+<img src="images/matthew_couchman.jpg" alt="image"/><br>
+Richard Mortier<br>
+
 ## Synopsis
 
 The aim of this project is to home-build a microscope capable of photographing gametophyte ferns. The style of photography aims to produce attractive images of the sort that might normally be seen on the front of Gardeners' World Magazine, or similar. 
