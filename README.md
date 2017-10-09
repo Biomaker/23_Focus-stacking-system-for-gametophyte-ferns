@@ -21,6 +21,13 @@ The technique to be used is called focus stacking and Jennifer Deegan has alread
 
 This project is a collaboration between many people. The principles of the design came from the forum members at  http://www.photomacrography.net/. The design is particularly based on the Bratcam, by Chris Slaybaugh. The focus block was provided as a gift by one of the forum members (Doc.Al). Some of the electronics and programming, and some of the fitting together were carried out by Tim Deegan. He also helped with the principles of the design. Jennifer Deegan did everything else.
 
+Here are some of the fern photos that we managed to take with the finished setup:
+
+<img src="images/20171008fernstack.jpg" alt="image"/>
+
+<img src="images/20171009fernstack.jpg" alt="image"/>
+
+
 
 ## Hardware
 
