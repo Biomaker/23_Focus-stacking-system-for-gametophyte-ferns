@@ -18,7 +18,7 @@ Matthew Couchman<br>
 
 The aim of this project is to home-build a microscope capable of photographing gametophyte ferns. The style of photography aims to produce attractive images of the sort that might normally be seen on the front of Gardeners' World Magazine, or similar. 
 
-The technique to be used is called focus stacking and Jennifer Deegan has already worked extensively on developing a system. She has taken a fairly good photograph of a gametophyte fern, using a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/Background.md">set up that relies on a modified flatbed scanner</a> (image below). For a full understanding of focus stacking please refer to the <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/Background.md">flatbed scanner introduction page</a>. The aim of this current project is to significantly improve on that first image. 
+The technique to be used is called focus stacking and Jennifer Deegan has already worked extensively on developing a system. She has taken a fairly good photograph of a gametophyte fern, using a <a href="/blob/master/Background.md">set up that relies on a modified flatbed scanner</a> (image below). For a full understanding of focus stacking please refer to the <a href="/blob/master/Background.md">flatbed scanner introduction page</a>. The aim of this current project is to significantly improve on that first image. 
 
 <img src="images/stackimagetinyweb.jpg" alt="image"/>
 
@@ -53,21 +53,21 @@ This picture shows the optics:
 
 ### Rail Hardware
 
-The <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/rail.md"> hardware for the rail</a> is one of the most critical parts, as this gives very fine control over the movement of the camera, and underpins the quality of the slices from which the stack is derived.  
+The <a href="/blob/master/rail.md"> hardware for the rail</a> is one of the most critical parts, as this gives very fine control over the movement of the camera, and underpins the quality of the slices from which the stack is derived.  
 
 ### Hardware for the optics. 
 
-The quality of the <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/optics.md"> optics</a> is critical, as this determines the quality of the slices from which the final stacked image is derived. 
+The quality of the <a href="/blob/master/optics.md"> optics</a> is critical, as this determines the quality of the slices from which the final stacked image is derived. 
 
-There is also an investigation of the <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/DepthOfField.md">depth of field</a> of the optics, using a stage micrometer. 
+There is also an investigation of the <a href="/blob/master/DepthOfField.md">depth of field</a> of the optics, using a stage micrometer. 
 
 ### Hardware for the lighting. 
 
-Effective <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/lighting.md">lighting</a> of gametophyte ferns for macrophotography is very tricky. These subjects are translucent and tend to produce specular highlights when the cells reflect the light of a camera flash, or create diffuse white lighting across the whole image. We have attempted to mitigate these issues using the techniques described. 
+Effective <a href="/blob/master/lighting.md">lighting</a> of gametophyte ferns for macrophotography is very tricky. These subjects are translucent and tend to produce specular highlights when the cells reflect the light of a camera flash, or create diffuse white lighting across the whole image. We have attempted to mitigate these issues using the techniques described. 
 
 ### Hardware to minimise vibration
 
-<a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/vibration.md">Vibration</a> is an important factor in photography at this tiny scale, so we used specific methods and hardware to control it.
+<a href="/blob/master/vibration.md">Vibration</a> is an important factor in photography at this tiny scale, so we used specific methods and hardware to control it.
 
 ### Other hardware
 
@@ -79,7 +79,7 @@ There is a lot of software involved in this project. Some was bought, and some w
 
 ### In-house software
 
-Software was written in-house to drive the rail. We provide instructions on how to drive the rail system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. Please see one or other of these pages for the software documentation depending on which hardware you are using. 
+Software was written in-house to drive the rail. We provide instructions on how to drive the rail system using either an <a href="/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. Please see one or other of these pages for the software documentation depending on which hardware you are using. 
 
 ### Bought software
 
@@ -91,15 +91,15 @@ Adobe photoshop.
 
 ## Growing ferns
 
-Growing the photographic specimens is one of the trickiest parts of this project. The <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/GrowingFerns.md"> protocol</a> that I am using is described. 
+Growing the photographic specimens is one of the trickiest parts of this project. The <a href="/blob/master/GrowingFerns.md"> protocol</a> that I am using is described. 
 
 ## Installation, Maintenance and Testing Guide
 
-a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/Test.md"> guide to testing</a> is provided. 
+a <a href="/blob/master/Test.md"> guide to testing</a> is provided. 
 
 ## What didn't work
 
-I tried some other options that <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/WhatDidntWork.md">didn't work</a>. I describe them here to avoid others duplicating effort. 
+I tried some other options that <a href="/blob/master/WhatDidntWork.md">didn't work</a>. I describe them here to avoid others duplicating effort. 
 
 ## License
 
