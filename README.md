@@ -105,6 +105,6 @@ I tried some other options that <a href="/WhatDidntWork.md">didn't work</a>. I d
 
 If anybody would like to copy the hardware and software that we have designed here, they are welcome to do it, but they must provide full attribution, and an appropriate fee in the case of commercial use. The design has been accepted in principle for publication in the Pteridologist Magazine 2018, so attribution should cite "Deegan, J. and Deegan, T. (2018), The Pteridologist Magazine". 
 
-The copyright of any photographs produced using this equipment is owned by Jennifer Deegan. Anyone who wishes to use the photographs should approach her directly through the <a href="/http://chlorophyllosophyimages.blogspot.co.uk/2016/12/the-chlorophyllosophy-image-library.html"> Chlorophyllosophy Image Library</a> or through the <a href="/https://www.plantsci.cam.ac.uk/directory/deegan-jennifer">University of Cambridge</a>. This copyright also applies to the photographs of the system used on this website. 
+The copyright of any photographs produced using this equipment is owned by Jennifer Deegan. Anyone who wishes to use the photographs should approach her directly through the <a href="http://chlorophyllosophyimages.blogspot.co.uk/2016/12/the-chlorophyllosophy-image-library.html"> Chlorophyllosophy Image Library</a> or through the <a href="https://www.plantsci.cam.ac.uk/directory/deegan-jennifer">University of Cambridge</a>. This copyright also applies to the photographs of the system used on this website. 
 
 
