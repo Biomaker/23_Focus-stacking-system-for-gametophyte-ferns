@@ -26,6 +26,8 @@ This project is a collaboration between many people. The principles of the desig
 
 Here are some of the fern photos that we managed to take with the finished setup:
 
+<img src="images/stack3jpg.jpg" alt="image"/>
+
 <img src="images/20171008fernstack.jpg" alt="image"/>
 
 <img src="images/20171009fernstack.jpg" alt="image"/>
