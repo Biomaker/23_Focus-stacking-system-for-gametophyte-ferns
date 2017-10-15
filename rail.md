@@ -10,6 +10,31 @@ Switching now to the other side - below, you can also see the stepper motor, and
 
 We provide instructions on how to drive the system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. Please see one or other of these pages for the wiring information, depending on which hardware you are using. 
 
+
+### Big Easy Driver Wiring
+
+|Big Easy Driver connection	| Destination|
+| ------------- | ------------- |
+|GND (top left)	| GND|
+|STEP (top left)	| 2 - Arduino, 24 RPi|
+|DIR (top left)	| 3 – Arduino, 26 - RPi|
+|M+ (bottom left)	| Power cable for stepper motor|
+|GND (bottom left)	| Power cable for stepper motor|
+|A	| “A” wire of the stepper motor|
+|A	| “A” wire of the stepper motor|
+|B	| “B” wire of the stepper motor|
+|B	| “B” wire of the stepper motor|
+
+### Infra Red remote control wiring
+
+|Infra Red remote control	|Raspberry Pi	|Arduino|
+| ------------- | ------------- |------------- |
+|Non-bulb end	|GND	|GND|
+|Bulb-end	|19	|13|
+
+
+
+
 Raspberry Pi setup:
 
 <img src="images/IMG_5239.JPG" alt="image"/>
