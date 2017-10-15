@@ -10,6 +10,7 @@ Switching now to the other side - below, you can also see the stepper motor, and
 
 We provide instructions on how to drive the system using either an <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/ArduinoMethod.md">Arduino</a> or a <a href="https://github.com/BioMakers/23_Focus-stacking-system-for-gametophyte-ferns/blob/master/RaspberryPiMethod.md">Raspberry Pi</a>. Please see one or other of these pages for the wiring information, depending on which hardware you are using. 
 
+## Wiring
 
 ### Big Easy Driver Wiring
 
@@ -32,14 +33,15 @@ We provide instructions on how to drive the system using either an <a href="http
 |Non-bulb end	|GND	|GND|
 |Bulb-end	|19	|13|
 
+### Stepper motor wiring
 
+The stepper motor is a 4 wire stepper motor, with two circuits. In order to wire it up correctly we checked the wires in pairs with a voltage meter to see which pairs produced a voltage. We designated these pair “A” and pair “B”, which were then wired up as shown in the Big Easy Driver wiring table above. 
 
-
-Raspberry Pi setup:
+### Raspberry Pi setup:
 
 <img src="images/IMG_5239.JPG" alt="image"/>
 
-Arduino setup:
+### Arduino setup:
 
 <img src="images/IMG_5946.JPG" alt="image"/>
 
