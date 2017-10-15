@@ -16,8 +16,8 @@ We provide instructions on how to drive the system using either an <a href="http
 |Big Easy Driver connection	| Destination|
 | ------------- | ------------- |
 |GND (top left)	| GND|
-|STEP (top left)	| 2 - Arduino, 24 RPi|
-|DIR (top left)	| 3 – Arduino, 26 - RPi|
+|STEP (top left)	| 2 Arduino, 24 RPi|
+|DIR (top left)	| 3 Arduino, 26 RPi|
 |M+ (bottom left)	| Power cable for stepper motor|
 |GND (bottom left)	| Power cable for stepper motor|
 |A	| “A” wire of the stepper motor|
