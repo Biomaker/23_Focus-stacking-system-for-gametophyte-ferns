@@ -109,4 +109,8 @@ If anybody would like to copy the hardware and software that we have designed he
 
 The copyright of any photographs produced using this equipment is owned by Jennifer Deegan. Anyone who wishes to use the photographs should approach her directly through the <a href="http://chlorophyllosophyimages.blogspot.co.uk/2016/12/the-chlorophyllosophy-image-library.html"> Chlorophyllosophy Image Library</a> or through the <a href="https://www.plantsci.cam.ac.uk/directory/deegan-jennifer">University of Cambridge</a>. This copyright also applies to the photographs of the system used on this website. 
 
+## Grant acknowledgement
+
+Purchase of the microscope objective was supported by the Biomaker Challenge 2017 which was jointly funded by OpenPlant, a BBSRC/EPSRC Synthetic Biology Research Centre Grant BB/L014130/1 and the Isaac Newton Trust. Biomaker Challenge 2017 was coordinated by University of Cambridge's Synthetic Biology Strategic Research Initiative and the CambridgeSens Network.
+
 
