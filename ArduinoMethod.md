@@ -76,7 +76,7 @@ Lastly, below is the set of cogs that allow the stepper motor to drive the micro
 
 <a href="arduino.c">This is the basic code</a> that we use to drive the system. All it does is to move the microscope block forward by some tiny amount (how ever far we tell it to go), and then it pauses for the system to settle and triggers the camera to take a shot. 
 
-We also have a <a href="FastArduino.c"></a>fast version that drives the rail much faster so that ferns do not have so much time to dry out. 
+We also have a <a href="FastArduino.c">fast version</a> that drives the rail much faster so that ferns do not have so much time to dry out. 
 
 Once the code has been uploaded to the Arduino, it will keep running whenever the battery is plugged in. So when using thhis computer to drive the focus block, just start it by plugging in the battery and stop it by unplugging the battery. Any modification to the code, for example to change the step size, will require reattaching the arduino to the computer and modifying the code again. 
 
