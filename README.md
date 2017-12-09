@@ -1,6 +1,8 @@
 
 <img src="images/banner.jpg" alt="image"/>
 
+This project is funded by the Biomaker Challenge Grant of 2017 and is a collaboration between the John Innes Centre and the University of Cambridge. The work was built upon in 2018, funded by an OpenPlant Grant, in a project to create <a href="https://github.com/BioMakers/Gametophyte-Fern-photography-2018/blob/master/README.md" resources on focus stacking for teaching and publication in plant sciences</a>. 
+
 
 <img src="images/Jennifer-Deegan.jpg" alt="image"/><br>
 Jennifer Deegan<br>
